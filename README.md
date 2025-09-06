@@ -15,7 +15,7 @@ Currently, I am focused on growing in **web development** and **software enginee
 - 👯 I’m looking forward to collaborate on **open source projects**.
 - ✔ Ask me about anything related to **programming or software**, I’d be happy to help if I can! 😉  
 - Outside tech: 📖 I love to read, 🎵 listen to music, and 🌍 explore nature.  
-- 📫 Reach out to me at: **jesusdavidaguilarlopez@gmail.com**
+- 📫 Reach out to me at: **jesusaguilop432@gmail.com**
 
 ---
 
