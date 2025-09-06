@@ -10,7 +10,7 @@ I am a technology enthusiast passionate about **programming, software developmen
 Currently, I am focused on growing in **web development** and **software engineering**.
 
 - 🌱 I’m currently learning:
-  - **Java**
+  - **Python**
   - **React.js**
 - 👯 I’m looking forward to collaborate on **open source projects**.
 - ✔ Ask me about anything related to **programming or software**, I’d be happy to help if I can! 😉  
@@ -24,13 +24,9 @@ Currently, I am focused on growing in **web development** and **software enginee
 #### Programming Languages
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![Shell](https://img.shields.io/badge/Shell_Script-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
 
 #### Databases & Tools
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
